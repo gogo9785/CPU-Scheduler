@@ -1,0 +1,47 @@
+7 2
+8
+1 0 3 s2
+2 1 2 i1
+3 2 6 b4
+4 4 4 s1
+5 5 1 i3
+6 7 2 b2
+7 8 5 s3
+8 9 1 i2
+
+
+Just copy and paste this above line in the testcase input_file
+and for custom testcase
+For MLQ,
+
+line1: 7<1 space>time_quantum_value
+line2: no of process
+line 3 to n: pid   arrival_time    burst_time      priority
+
+s means system process, i means interactive process, b means background process
+
+
+
+another case :
+
+7 2
+10
+1 0 5 s1
+2 0 5 i3
+3 0 5 b2
+4 1 3 s2
+5 4 4 s5
+6 2 6 i5
+7 5 2 s4
+8 7 4 i7
+9 3 2 i6
+10 4 5 s8
+
+
+7 2
+5
+0 0 2 s1
+1 0 2 i1
+2 6 3 i4
+3 7 4 s3
+4 9 4 s5

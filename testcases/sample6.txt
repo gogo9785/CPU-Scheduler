@@ -1,0 +1,19 @@
+6 2
+6
+1 0 4 s1
+2 1 5 s2
+3 2 2 s3
+4 3 1 s4
+5 4 6 s5
+6 6 3 s6
+
+
+Just copy and paste this above line in the testcase input_file
+and for custom testcase
+For RR,
+
+line1: 6<1 space>time_quantum_value
+line2: no of process
+line 3 to n: pid   arrival_time    burst_time      priority
+
+s means system process, i means interactive process, b means background process

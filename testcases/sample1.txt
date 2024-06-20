@@ -1,0 +1,19 @@
+1
+7
+1 0 4 s2
+2 1 2 s4
+3 2 3 s6
+4 3 5 s10
+5 4 1 s8
+6 5 4 s12
+7 6 6 s9
+
+Just copy and paste this above line in the testcase input_file
+and for custom testcase
+For FCFS,
+
+line1: 1
+line2: no of process
+line 3 to n: pid   arrival_time    burst_time      priority
+
+s means system process, i means interactive process, b means background process

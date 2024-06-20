@@ -1,0 +1,12 @@
+7 2
+5
+0 0 2 s1
+1 0 2 i1
+2 6 3 i4
+3 7 4 s3
+4 9 4 s5
+
+first line decides the algo
+second line decides the number of process
+from 3rd line 
+pid    arrival_time    burst_time    Priority

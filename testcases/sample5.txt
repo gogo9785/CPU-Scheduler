@@ -1,0 +1,17 @@
+5 2
+4
+1 0 8 s1
+2 1 4 s2
+3 2 9 s3
+4 3 5 s4
+
+
+Just copy and paste this above line in the testcase input_file
+and for custom testcase
+For PSP,
+
+line1: 5<1 space>time_quantum_value
+line2: no of process
+line 3 to n: pid   arrival_time    burst_time      priority
+
+s means system process, i means interactive process, b means background process
